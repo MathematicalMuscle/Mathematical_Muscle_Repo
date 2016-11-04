@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.mathematical_muscle" name="Mathematical Muscle Repo" version="1.0.0" provider-name="Mathematical Muscle">
     <extension point="xbmc.addon.repository" name="Mathematical Muscle Repo for Kodi">
-        <info compressed="true">http://raw.github.com/MathematicalMuscle/Mathematical_Muscle_Repo/zips/addons.xml.gz</info>
+        <info compressed="true">http://raw.github.com/MathematicalMuscle/Mathematical_Muscle_Repo/master/zips/addons.xml.gz</info>
         <checksum>http://raw.github.com/MathematicalMuscle/Mathematical_Muscle_Repo/master/zips/addons.xml.md5</checksum>
         <datadir zip="true">http://raw.github.com/MathematicalMuscle/Mathematical_Muscle_Repo/master/zips</datadir>
     </extension>
